@@ -2,25 +2,19 @@
 
 ## Find all EXCELR Data Science Assignment Here
 
-### [Basic Statistics Level 1](https://github.com/MoinDalvs/Assignment-Basic-Stats-Level1)
+### [Basic Statistics Level 1](https://github.com/BhargavSimha25/Basic_stats_1)
 
-### [Basic Statistics Level 2 SET 1](https://github.com/MoinDalvs/Assignment_2_Set_1)
-
-### [Basic Statistics Level 2 SET 2](https://github.com/MoinDalvs/Assignment_2_Set_2)
-
-### [Basic Statistics Level 2 SET 3](https://github.com/MoinDalvs/Assignment_2_Set_3)
-
-### [Basic Statistics Level 2 SET 4](https://github.com/MoinDalvs/Assignment_-2_Set_4)
+### [Basic Statistics Level 2 SET 1](https://github.com/BhargavSimha25/Confidence-Interval)
 
 ### [Hypothesis Testing](https://github.com/MoinDalvs/Assignment_Hypothesis_test)
 
-### [Simple Linear Regression Delivery Time](https://github.com/MoinDalvs/Simple_Linear_Regression_1)
+### [Simple Linear Regression Delivery Time]()
 
-### [Simple Linear Regression Salary Hike](https://github.com/MoinDalvs/Simple_Linear_regression_2)
+### [Simple Linear Regression Salary Hike]()
 
-### [Multi Linear Regression 50 Startups](https://github.com/MoinDalvs/Assignment_Multi_linear_Regression_1)
+### [Multi Linear Regression 50 Startups]()
 
-### [Multi Linear Regression Toyota Corolla](https://github.com/MoinDalvs/Assignment_Multi_linear_regression_2)
+### [Multi Linear Regression Toyota Corolla]()
 
 ### [Logistic Regression](https://github.com/MoinDalvs/Assignment_Logistic_Regression)
 
@@ -72,7 +66,7 @@ ___
 <tr>
 <td>
      
-     moindalvs@gmail.com
+     2004c7.bhargav@gmail.com
 
 
 [Table of Content](#0.1)
