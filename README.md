@@ -1,6 +1,6 @@
 # Excelr_Data_Science_Assignments
 
-## Find all EXCELR Data Science Assignment Here
+### Find all EXCELR Data Science Assignment Here
 
 ### [Basic Statistics Level 1](https://github.com/BhargavSimha25/Basic_stats_1)
 
@@ -12,10 +12,9 @@
 
 ### [Logistic Regression](https://github.com/BhargavSimha25/Logistics-Regression)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-___
-
-## Author
+# Author
 
 <table>
 <tr>
