@@ -12,6 +12,8 @@
 
 ### [Logistic Regression](https://github.com/BhargavSimha25/Logistics-Regression)
 
+### [Clustering East West Airlines](https://github.com/BhargavSimha25/Clustering_Assignment)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Author
