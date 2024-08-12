@@ -14,6 +14,9 @@
 
 ### [Clustering East West Airlines](https://github.com/BhargavSimha25/Clustering_Assignment)
 
+### [PCA Wine Dataset](https://github.com/BhargavSimha25/PCA_Assignment)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Author
