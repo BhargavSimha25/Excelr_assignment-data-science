@@ -8,6 +8,8 @@
 
 ### [Hypothesis Testing](https://github.com/BhargavSimha25/Hypothesis_Testing)
 
+### [EDA-1 Basic Concepts](https://github.com/BhargavSimha25/EDA-Concept)
+
 ### [Multi Linear Regression Toyota Corolla](https://github.com/BhargavSimha25/Multi-Linear-Regression)
 
 ### [Logistic Regression](https://github.com/BhargavSimha25/Logistics-Regression)
@@ -16,6 +18,7 @@
 
 ### [PCA Wine Dataset](https://github.com/BhargavSimha25/PCA_Assignment)
 
+### [EDA-2 Advance Topics](https://github.com/BhargavSimha25/EDA-2)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
