@@ -22,6 +22,8 @@
 
 ### [Association Rule](https://github.com/BhargavSimha25/Association_rule)
 
+### [Decision Tree Heart Disease Prediction](https://github.com/BhargavSimha25/Decision-Tree)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
