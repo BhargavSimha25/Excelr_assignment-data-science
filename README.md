@@ -20,11 +20,13 @@
 
 ### [PCA Wine Dataset](https://github.com/BhargavSimha25/PCA_Assignment)
 
-### [EDA-2 Advance Topics](https://github.com/BhargavSimha25/EDA-2)
-
 ### [Association Rule](https://github.com/BhargavSimha25/Association_rule)
 
+### [EDA-2 Advance Topics](https://github.com/BhargavSimha25/EDA-2)
+
 ### [Decision Tree Heart Disease Prediction](https://github.com/BhargavSimha25/Decision-Tree)
+
+### [XGBM & LGBM Titanic Dataset](https://github.com/BhargavSimha25/LGBM-XGBM)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
