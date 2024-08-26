@@ -6,6 +6,8 @@
 
 ### [Basic Statistics Level 2](https://github.com/BhargavSimha25/Confidence-Interval)
 
+### [Basics of Python](https://github.com/BhargavSimha25/Basics-of-python)
+
 ### [Hypothesis Testing](https://github.com/BhargavSimha25/Hypothesis_Testing)
 
 ### [EDA-1 Basic Concepts](https://github.com/BhargavSimha25/EDA-Concept)
