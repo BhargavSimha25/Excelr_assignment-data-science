@@ -22,6 +22,8 @@
 
 ### [Association Rule](https://github.com/BhargavSimha25/Association_rule)
 
+### [Recommendation System anime dataset](https://github.com/BhargavSimha25/Recommendation-System)
+
 ### [EDA-2 Advance Topics](https://github.com/BhargavSimha25/EDA-2)
 
 ### [Decision Tree Heart Disease Prediction](https://github.com/BhargavSimha25/Decision-Tree)
@@ -29,6 +31,12 @@
 ### [XGBM & LGBM Titanic Dataset](https://github.com/BhargavSimha25/LGBM-XGBM)
 
 ### [Random Forest ](https://github.com/BhargavSimha25/Random-Forest)
+
+### [k-nearest neighbor algorithm(KNN)](https://github.com/BhargavSimha25/k-nearest-neighbor-algorithm)
+
+### [NLP and  Naive Bayes](https://github.com/BhargavSimha25/NLP-and-Naive-Bayes)
+
+### [Time Series](https://github.com/BhargavSimha25/Timeseries)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
