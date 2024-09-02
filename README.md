@@ -34,6 +34,10 @@
 
 ### [k-nearest neighbor algorithm(KNN)](https://github.com/BhargavSimha25/k-nearest-neighbor-algorithm)
 
+### [Supporrt Vector Machine(SVM)](https://github.com/BhargavSimha25/Support-Vector-Machine)
+
+### [Neural Network(NN)](https://github.com/BhargavSimha25/Neural-Network)
+
 ### [NLP and  Naive Bayes](https://github.com/BhargavSimha25/NLP-and-Naive-Bayes)
 
 ### [Time Series](https://github.com/BhargavSimha25/Timeseries)
